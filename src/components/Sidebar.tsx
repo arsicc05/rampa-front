@@ -47,8 +47,8 @@ const sidebarItems = [
         />
       </svg>
     ),
-    label: 'Profile',
-    href: '/profile',
+    label: 'Stanice',
+    href: '/dashboard/stanice',
   },
   {
     icon: (
@@ -72,8 +72,8 @@ const sidebarItems = [
         />
       </svg>
     ),
-    label: 'Settings',
-    href: '/settings',
+    label: 'Daily Report',
+    href: '/dashboard/daily-report',
   },
   {
     icon: (
@@ -91,8 +91,8 @@ const sidebarItems = [
         />
       </svg>
     ),
-    label: 'Analytics',
-    href: '/analytics',
+    label: 'Revenue',
+    href: '/dashboard/revenue',
   },
 ];
 
